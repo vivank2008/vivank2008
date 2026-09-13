@@ -42,12 +42,6 @@ I believe in:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -92,9 +86,10 @@ Engineering            ███████░░░ 70%
 🌊 Maritime & Ships
 
 🌐 Connect With Me
-<p align="left"> <a href="https://github.com/vivannnnn_362"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://instagram.com/vivannnnn_362"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vivannnnn_362&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivannnnn_362&theme=tokyonight&hide_border=true"/> </p>
+my intstagram: https://www.instagram.com/vivannnnn_362/
+my linkedin: www.linkedin.com/in/vivan-kaushik-984761436
+contact number: +91 9079926497
+my Gmail: vivanrbt@gmail.com
 🚢 Future Loading...
 Chemical Engineering 🧪
           ↓
