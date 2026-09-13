@@ -88,6 +88,7 @@ Engineering            ███████░░░ 70%
 🌐 Connect With Me
 my intstagram: https://www.instagram.com/vivannnnn_362/
 my linkedin: www.linkedin.com/in/vivan-kaushik-984761436
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivanrbt@gmail.com)
 contact number: +91 9079926497
 my Gmail: vivanrbt@gmail.com
 🚢 Future Loading...
